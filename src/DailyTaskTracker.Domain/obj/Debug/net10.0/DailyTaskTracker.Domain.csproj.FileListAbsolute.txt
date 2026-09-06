@@ -1,0 +1,12 @@
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.AssemblyInfo.cs
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.sourcelink.json
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\bin\Debug\net10.0\DailyTaskTracker.Domain.deps.json
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\bin\Debug\net10.0\DailyTaskTracker.Domain.dll
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\bin\Debug\net10.0\DailyTaskTracker.Domain.pdb
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.dll
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\refint\DailyTaskTracker.Domain.dll
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\DailyTaskTracker.Domain.pdb
+C:\Users\mirsa\Desktop\Habits\src\DailyTaskTracker.Domain\obj\Debug\net10.0\ref\DailyTaskTracker.Domain.dll

@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DailyTaskTracker.API/DailyTaskTracker.API.csproj" />
+    <Project Path="src/DailyTaskTracker.Application/DailyTaskTracker.Application.csproj" />
+    <Project Path="src/DailyTaskTracker.ConsoleApp/DailyTaskTracker.ConsoleApp.csproj" />
+    <Project Path="src/DailyTaskTracker.Domain/DailyTaskTracker.Domain.csproj" />
+    <Project Path="src/DailyTaskTracker.Infrastructure/DailyTaskTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DailyTaskTracker.IntegrationTests/DailyTaskTracker.IntegrationTests.csproj" />
+    <Project Path="tests/DailyTaskTracker.UnitTests/DailyTaskTracker.UnitTests.csproj" />
+  </Folder>
+</Solution>
